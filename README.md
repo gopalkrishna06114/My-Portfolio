@@ -2,7 +2,7 @@
 
 A clean, minimal personal portfolio website built with **React + Vite + Tailwind CSS**, inspired by modern developer portfolio designs. Features a cream/off-white light theme, full dark mode support, smooth animations, and a fully responsive layout.
 
-**Live Site →** [gopal-portfolio.vercel.app](https://gopal-portfolio.vercel.app)
+**Live Site →** [gopal-portfolio.vercel.app]([https://gopal-portfolio.vercel.app](https://my-portfolio-tau-pearl-80.vercel.app/))
 
 ---
 
